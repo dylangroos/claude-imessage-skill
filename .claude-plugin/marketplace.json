@@ -18,7 +18,10 @@
         "name": "Dylan Groos",
         "email": "dylangroos@gmail.com"
       },
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dylangroos/claude-imessage.git"
+      },
       "category": "productivity",
       "keywords": ["imessage", "messages", "sms", "texting", "auto-reply", "monitoring", "macos"],
       "license": "MIT",
